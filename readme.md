@@ -1,4 +1,4 @@
-# Angular Testbad
+# Angular Testbed
 
 ### Tested Topics
 
